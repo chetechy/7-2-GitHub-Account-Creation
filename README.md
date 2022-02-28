@@ -1,4 +1,4 @@
-# Integrating-Languages
+# Grocery Tracker
 Summarize the project and what problem it was solving.
 - This project was to assist the client in figuring out how often an item is purchased. 
 
