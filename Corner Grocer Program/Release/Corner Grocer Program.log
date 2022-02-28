@@ -1,0 +1,8 @@
+﻿  Project3.cpp
+  Generating code
+C:\Users\Che\Documents\Corner Grocer Program\Project3.cpp(37): warning C4715: 'showHistogram': not all control paths return a value
+  2 of 199 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Corner Grocer Program.vcxproj -> C:\Users\Che\Documents\Corner Grocer Program\Release\Corner Grocer Program.exe
