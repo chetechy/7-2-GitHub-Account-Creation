@@ -13,6 +13,6 @@ Which pieces of the code did you find most challenging to write, and how did you
 
 What skills from this project will be particularly transferable to other projects or course work?
 - Skills like using two languages will transfer to other works. 
--
+
 How did you make this program maintainable, readable, and adaptable?
-I made sure to keep the code clean and provide notes within the code. 
+- I made sure to keep the code clean and provide notes within the code. 
